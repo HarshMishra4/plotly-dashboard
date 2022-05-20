@@ -13,7 +13,7 @@
 
 ## Description
 
-This project is a simple data visualization project, that plots chats based on COVID-19 reports data. 
+This project is a simple data visualization project, that plots charts based on COVID-19 reports data. 
 
 ## Tech Stack 👨🏻‍💻
 
@@ -26,6 +26,10 @@ This project is a simple data visualization project, that plots chats based on C
 
 There are some packages 📦 that are required to run this project
 
+> ``` pip install numpy```
+> 
+> ``` pip install pandas```
+> 
 > ``` pip install plotly-express```
 > 
 > ``` pip install dash-html-components```
